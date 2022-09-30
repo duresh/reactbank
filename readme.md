@@ -6,4 +6,4 @@
 
 ### example
 
-![Screenshot](https://www.dropbox.com/s/c4nnqqok69ognpj/screencapture-localhost-5173-2022-09-30-10_37_39.png?dl=0)
+![Screenshot](https://github.com/duresh/reactbank/blob/main/screencapture-localhost-5173-2022-09-30-10_37_39.png)
